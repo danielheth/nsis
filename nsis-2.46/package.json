@@ -1,0 +1,9 @@
+{
+	"name": "nsis",
+	"version": "2.46.0",
+	"main": "",
+	"description": "Nsis all bundled up for npm.",
+	"homepage": "https://github.com/danielheth/nsis",
+	"devDependencies": {},
+	"dependencies": {}
+}
